@@ -23,7 +23,8 @@ Multi-Source Inventory (MSI) · Headless Commerce / PWA · Marketplace · Talon.
 **Back end & integration:** PHP · MySQL · GraphQL · REST · SOAP · RabbitMQ / message queues ·
 event-driven architecture · ERP integrations (SAP, Microsoft Dynamics) · payment gateways
 
-**Cloud & DevOps:** AWS · Azure · Docker · CI/CD · Adobe Commerce Cloud
+**Cloud, DevOps & security:** AWS · Azure · Docker · CI/CD · Adobe Commerce Cloud · Security
+(OWASP, PCI DSS, hardening)
 
 **Performance & search:** Performance optimization · Redis · Varnish · Fastly · Elasticsearch ·
 Algolia · Klevu · New Relic
