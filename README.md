@@ -23,11 +23,14 @@ Multi-Source Inventory (MSI) · Headless Commerce / PWA · Marketplace · Talon.
 **Back end & integration:** PHP · MySQL · GraphQL · REST · SOAP · RabbitMQ / message queues ·
 event-driven architecture · ERP integrations (SAP, Microsoft Dynamics) · payment gateways
 
-**Performance & search:** Redis · Varnish · Fastly · Elasticsearch · Algolia · Klevu · New Relic
+**Cloud & DevOps:** AWS · Azure · Docker · CI/CD · Adobe Commerce Cloud
+
+**Performance & search:** Performance optimization · Redis · Varnish · Fastly · Elasticsearch ·
+Algolia · Klevu · New Relic
 
 **Front end:** JavaScript · React · KnockoutJS · RequireJS · jQuery · HTML · CSS / LESS / SCSS
 
-**Ways of working:** technical leadership · system design · code review · mentoring ·
+**Ways of working:** Agile · technical leadership · system design · code review · mentoring ·
 requirement analysis · estimation · Git · Composer · JIRA
 
 ### 🏆 Certifications
