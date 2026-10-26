@@ -65,6 +65,9 @@ requirement analysis · estimation · Git · Composer · JIRA
 
 ### 🏆 Certifications
 
+<a href="https://certification.adobe.com/credential/verify/0337ceaf-c351-4151-a1b6-dd9e93b6ba6e"><img src="assets/adobe-expert.png" alt="Adobe Certified Expert – Adobe Commerce Developer badge" width="96" height="96"></a>&nbsp;&nbsp;
+<a href="https://certification.adobe.com/credential/verify/a2be427f-cf35-4114-ab9c-5bdb4ca187a2"><img src="assets/adobe-professional.png" alt="Adobe Certified Professional – Adobe Commerce Developer badge" width="96" height="96"></a>
+
 - **Adobe Certified Expert – Adobe Commerce Developer** · [verify](https://certification.adobe.com/credential/verify/0337ceaf-c351-4151-a1b6-dd9e93b6ba6e)
 - **Adobe Certified Professional – Adobe Commerce Developer** · [verify](https://certification.adobe.com/credential/verify/a2be427f-cf35-4114-ab9c-5bdb4ca187a2)
 
